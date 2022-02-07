@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638294029 source:c:\users\kýratlý\desktop\1\ad yazdýrma deneme 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
